@@ -1,7 +1,7 @@
 .grid {
     position: absolute;
-    width: 600px;
-    height: 600px;
+    width: 560px;
+    height:510px;
     border: 1px solid black;
     
 }
@@ -10,7 +10,7 @@
     width: 100px;
     position: absolute;
     height: 20px;
-    background-color: darkblue;
+    background-color:purple;
     left: 50px;
     bottom: 50px;
 }
@@ -18,7 +18,7 @@
     width:100px;
     position:absolute;
     height:20px;
-    background-color:purple;
+    background-color:darkblue;
     left:50px;
     bottom:50px;
 }
@@ -32,6 +32,5 @@ body{
     width:20px;
     height:20px;
     border-radius:10px;
-    color:red;
-    
+    background-color:darkred;
 }
